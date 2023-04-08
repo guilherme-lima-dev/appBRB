@@ -35,6 +35,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  provider: ^6.0.5
 
 dev_dependencies:
   flutter_test:
@@ -59,7 +60,10 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/banco.png
+    - assets/images/brb_logo.png
+    - assets/images/brb_openfinance.png
+    - assets/images/marca_open_finance.png
+    - assets/images/pontos_turisticos.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
