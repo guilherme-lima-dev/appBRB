@@ -144,8 +144,8 @@ class InformationScreen extends StatelessWidget {
             children: <Widget>[
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal:  16.0),
-                child: Text("     O empréstimo peer-to-peer, ou P2P, é a nova modalidade oferecida pelo BRB, em que pessoas emprestam dinheiro umas às outras diretamente, sem a necessidade de um banco ou outra instituição financeira como intermediário. No P2P, o banco fica responsável por garantir que o empréstimo seja pago, facilitando todo o processo e criando um ambiente seguro para quem o utiliza."
-                    "\n     Essa modalidade de empréstimo pode ser mais acessível, com taxas de juros mais baixas e menos burocracia do que empréstimos tradicionais. Dessa maneira, o acesso à credito para os brasileiros é facilitado com o P2P, além de também poder gerar uma boa rentabilidade para quem investe.\n"),
+                child: Text("     O empréstimo peer-to-peer, ou P2P, é a nova modalidade oferecida pelo BRB, em que pessoas emprestam dinheiro umas às outras diretamente, sendo possível utilizar uma plataforma como intermediadora desse processo. No P2P, o banco fica responsável por garantir que o empréstimo seja pago, facilitando todo o processo e criando um ambiente seguro para quem o utiliza."
+    "\n     Essa modalidade de empréstimo pode ser mais acessível, com taxas de juros mais baixas e menos burocracia do que empréstimos tradicionais. Dessa maneira, o acesso à credito para os brasileiros é facilitado com o P2P, além de também poder gerar uma boa rentabilidade para quem investe."),
               ),
             ],
           ),
